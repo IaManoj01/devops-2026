@@ -1,6 +1,6 @@
 # DevOps Training Portfolio
 
-This repository documents hands-on infrastructure and DevOps exercises completed over eight training days. The day folders group the work by session; each task folder contains its original screenshots or other evidence and a `description.md` explaining the exercise.
+This repository documents hands-on infrastructure and DevOps exercises completed over nine training days. The day folders group the work by session; each task folder contains its original screenshots or other evidence and a `description.md` explaining the exercise.
 
 ## Daily folders
 
@@ -14,6 +14,7 @@ This repository documents hands-on infrastructure and DevOps exercises completed
 | [Day 6](<Day 6/README.md>) | Linux commands, secure access, Docker storage and networking, and Nginx checks | 6 |
 | [Day 7](<Day 7/README.md>) | Linux commands, SUSI OS, and Jenkins jobs and pipelines | 5 |
 | [Day 8](<Day 8/README.md>) | Linux commands, GitHub Actions, Ansible automation, and Nginx deployment | 5 |
+| [Day 9](<Day 9/README.md>) | Linux commands and Blue-Green deployment strategies | 2 |
 
 ## Task documentation
 
