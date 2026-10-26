@@ -1,6 +1,6 @@
 # DevOps Training Portfolio
 
-This repository documents hands-on infrastructure and DevOps exercises completed over nine training days. The day folders group the work by session; each task folder contains its original screenshots or other evidence and a `description.md` explaining the exercise.
+This repository documents hands-on infrastructure, DevOps, and data exercises completed over ten training days. The day folders group the work by session; each task folder contains its original screenshots or other evidence and a `description.md` explaining the exercise.
 
 ## Daily folders
 
@@ -15,8 +15,12 @@ This repository documents hands-on infrastructure and DevOps exercises completed
 | [Day 7](<Day 7/README.md>) | Linux commands, SUSI OS, and Jenkins jobs and pipelines | 5 |
 | [Day 8](<Day 8/README.md>) | Linux commands, GitHub Actions, Ansible automation, and Nginx deployment | 5 |
 | [Day 9](<Day 9/README.md>) | Linux commands and Blue-Green deployment strategies | 2 |
+| [Day 10 - Data Foundations](<Data Foundations/Day 10/README.md>) | Linux commands, Python data libraries, and data analysis with NumPy and pandas | 5 |
 
 ## Task documentation
 
 Each task's `description.md` summarizes its purpose, key learning outcomes, and the evidence saved in that folder. These write-ups describe the work represented by the local artifacts; they do not claim that screenshots alone prove every configuration detail.
 
+### Why task descriptions are separate
+
+The day-level `README.md` is a concise index for the session: it shows the day's focus and links to its tasks. A separate `description.md` stays beside each task's evidence, where it can explain that task's specific goal, learning outcomes, and files without making the day index unwieldy. This also lets readers open a task directly and understand its evidence without needing to search through a combined daily write-up.
