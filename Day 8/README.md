@@ -1,6 +1,6 @@
 # Day 8 - GitHub Actions and Ansible automation
 
-The final set of folders documents Linux command practice, GitHub Actions CI/CD workflows, Ansible master-slave architecture, static web hosting with Nginx, and conditional playbook execution using tags and when conditions.
+This day covers Linux command practice, GitHub Actions CI/CD workflows, Ansible master-slave architecture, static web hosting with Nginx, and conditional playbook execution using tags and when conditions.
 
 ## Tasks
 
