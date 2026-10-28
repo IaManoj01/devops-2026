@@ -1,6 +1,6 @@
 # DevOps Training Portfolio
 
-This repository documents hands-on infrastructure, DevOps, and data exercises completed over eleven training days. The day folders group the work by session; each task folder contains its original screenshots or other evidence and a `description.md` explaining the exercise.
+This repository documents hands-on infrastructure, DevOps, and data exercises completed over twelve training days. The day folders group the work by session; each task folder contains its original screenshots or other evidence and a `description.md` explaining the exercise.
 
 ## Daily folders
 
@@ -17,6 +17,7 @@ This repository documents hands-on infrastructure, DevOps, and data exercises co
 | [Day 9](<Day 9/README.md>) | Linux commands and Blue-Green deployment strategies | 2 |
 | [Day 10 - Data Foundations](<Data Foundations/Day 10/README.md>) | Linux commands, Python data libraries, and data analysis with NumPy and pandas | 5 |
 | [Day 11 - Data Foundations](<Data Foundations/Day 11/README.md>) | Linux commands, sales data analysis with pandas, and data cleaning, transformation, and visualization | 3 |
+| [Day 12 - Data Foundations](<Data Foundations/Day 12/README.md>) | Linux commands, SQL database setup, and analysis of space-mission and spacecraft-communication datasets | 3 |
 
 ## Task documentation
 
