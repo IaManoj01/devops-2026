@@ -1,28 +1,46 @@
-# DevOps Training Portfolio
+# DevOps & Data Foundations Portfolio
 
-This repository documents hands-on infrastructure, DevOps, and data exercises completed over twelve training days. The day folders group the work by session; each task folder contains its original screenshots or other evidence and a `description.md` explaining the exercise.
+Hands-on training exercises covering Linux, AWS, containers, monitoring, CI/CD, automation, deployment strategies, and data analysis. This repository brings together **12 training days and 49 task folders**, with task notes and supporting evidence such as screenshots, PDFs, documents, and a workbook.
 
-## Daily folders
+## Explore the portfolio
+
+| Days | Track | Topics |
+| --- | --- | --- |
+| [Days 1–4](#daily-work) | Linux, AWS, and Docker | Filesystem, permissions, processes, EC2, IAM, S3, DNS, containers, and Dockerfiles |
+| [Days 5–9](#daily-work) | Monitoring and delivery | CloudTrail, CloudWatch, Prometheus, Grafana, Docker storage and networking, Jenkins, GitHub Actions, Ansible, and Blue-Green deployment |
+| [Days 10–12](#daily-work) | Data foundations | NumPy, pandas, data cleaning and visualization, SQL, and relational dataset analysis |
+
+## Daily work
 
 | Day | Focus | Tasks |
 | --- | --- | ---: |
 | [Day 1](<Day 1/README.md>) | Linux filesystem, commands, permissions, and processes | 4 |
-| [Day 2](<Day 2/README.md>) | Linux commands and administration, AWS EC2, SSH key conversion, and static site deployment | 5 |
-| [Day 3](<Day 3/README.md>) | Linux commands, AWS IAM, S3 object access, DNS, and Route 53 | 4 |
-| [Day 4](<Day 4/README.md>) | Linux commands and Docker containers and images | 3 |
-| [Day 5](<Day 5/README.md>) | Linux commands, AWS audit and monitoring, Prometheus, and Grafana | 4 |
-| [Day 6](<Day 6/README.md>) | Linux commands, secure access, Docker storage and networking, and Nginx checks | 6 |
-| [Day 7](<Day 7/README.md>) | Linux commands, SUSI OS, and Jenkins jobs and pipelines | 5 |
-| [Day 8](<Day 8/README.md>) | Linux commands, GitHub Actions, Ansible automation, and Nginx deployment | 5 |
-| [Day 9](<Day 9/README.md>) | Linux commands and Blue-Green deployment strategies | 2 |
-| [Day 10 - Data Foundations](<Data Foundations/Day 10/README.md>) | Linux commands, Python data libraries, and data analysis with NumPy and pandas | 5 |
-| [Day 11 - Data Foundations](<Data Foundations/Day 11/README.md>) | Linux commands, sales data analysis with pandas, and data cleaning, transformation, and visualization | 3 |
-| [Day 12 - Data Foundations](<Data Foundations/Day 12/README.md>) | Linux commands, SQL database setup, and analysis of space-mission and spacecraft-communication datasets | 3 |
+| [Day 2](<Day 2/README.md>) | Linux administration, AWS EC2, SSH key conversion, and static site deployment | 5 |
+| [Day 3](<Day 3/README.md>) | AWS IAM, S3 object access, DNS, and Route 53 | 4 |
+| [Day 4](<Day 4/README.md>) | Linux commands, Docker containers, and custom images | 3 |
+| [Day 5](<Day 5/README.md>) | CloudTrail, EC2 monitoring with CloudWatch/SNS/SQS, Prometheus, and Grafana | 4 |
+| [Day 6](<Day 6/README.md>) | Secure access, Docker storage and networking, and Nginx checks | 6 |
+| [Day 7](<Day 7/README.md>) | SUSI OS, Jenkins jobs, scheduling, webhooks, and pipelines | 5 |
+| [Day 8](<Day 8/README.md>) | GitHub Actions, Ansible, Nginx deployment, and playbook controls | 5 |
+| [Day 9](<Day 9/README.md>) | Linux commands and Blue-Green deployment | 2 |
+| [Day 10 – Data Foundations](<Data Foundations/Day 10/README.md>) | Linux, NumPy, pandas, and space-dataset analysis | 5 |
+| [Day 11 – Data Foundations](<Data Foundations/Day 11/README.md>) | Linux, sales analysis, and pandas data cleaning and visualization | 3 |
+| [Day 12 – Data Foundations](<Data Foundations/Day 12/README.md>) | Linux and SQL analysis of space-mission datasets | 3 |
 
-## Task documentation
+## Skills practiced
 
-Each task's `description.md` summarizes its purpose, key learning outcomes, and the evidence saved in that folder. These write-ups describe the work represented by the local artifacts; they do not claim that screenshots alone prove every configuration detail.
+- **Linux:** filesystem navigation, shell commands, permissions, users and groups, processes, memory, and service configuration.
+- **Cloud and infrastructure:** AWS EC2, IAM, S3, Route 53, and CloudTrail.
+- **Containers:** Docker images, Dockerfiles, persistent storage, networking, and containerized WordPress/MySQL.
+- **Monitoring:** CloudWatch alarms and notifications, Prometheus metrics, Node Exporter, and Grafana dashboards.
+- **CI/CD and automation:** Jenkins jobs and pipelines, GitHub webhooks and Actions, and Ansible ad-hoc commands and playbooks.
+- **Deployment:** Nginx hosting and Blue-Green release concepts.
+- **Data foundations:** Python data libraries, NumPy, pandas, data cleaning and visualization, and SQL filtering, joins, and aggregation.
 
-### Why task descriptions are separate
+## How to use this repository
 
-The day-level `README.md` is a concise index for the session: it shows the day's focus and links to its tasks. A separate `description.md` stays beside each task's evidence, where it can explain that task's specific goal, learning outcomes, and files without making the day index unwieldy. This also lets readers open a task directly and understand its evidence without needing to search through a combined daily write-up.
+1. Open a day’s README for a summary and links to its tasks.
+2. Open a task’s `description.md` for its purpose, learning outcomes, and evidence links.
+3. Use the linked files in the task folder to review the captured exercise materials.
+
+The documentation describes the exercises and artifacts present in this repository. Screenshots and other saved materials are evidence of the work captured; they may not independently verify every configuration detail or reproduce the original environment.
