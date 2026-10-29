@@ -1,0 +1,62 @@
+order_id,order_date,region,category,product,quantity,unit_price,sales_channel
+ORD1001,2025-01-03,North,Electronics,Wireless Mouse,2.0,25.0,Online
+ORD1002,2025-01-05,South,Home,Desk Lamp,1.0,32.5,Store
+ORD1003,2025-01-08,East,Fashion,Cotton T-Shirt,3.0,15.0,Online
+ORD1004,2025-01-11,West,Electronics,USB-C Hub,1.0,48.0,Online
+ORD1005,2025-01-14,North,Home,Water Bottle,4.0,12.0,Store
+ORD1006,2025-01-17,South,Fashion,Sneakers,1.0,65.0,Online
+ORD1007,2025-01-20,,Electronics,Bluetooth Speaker,2.0,39.0,Store
+ORD1008,2025-01-23,West,Home,Storage Box,3.0,18.0,Online
+ORD1009,2025-01-26,North,Fashion,Hoodie,2.0,42.0,Online
+ORD1010,2025-01-29,South,Electronics,Keyboard,1.0,55.0,Store
+ORD1011,2025-02-02,East,Home,Coffee Mug,5.0,8.0,Online
+ORD1012,2025-02-04,West,Fashion,Jeans,2.0,38.0,Store
+ORD1013,2025-02-07,North,Electronics,Power Bank,2.0,29.0,Online
+ORD1014,2025-02-10,South,Home,Bed Sheet,,45.0,Online
+ORD1015,2025-02-13,East,Fashion,Jacket,1.0,89.0,Store
+ORD1016,2025-02-16,West,Electronics,Webcam,1.0,72.0,Online
+ORD1017,2025-02-19,North,Home,Pillow,2.0,22.0,Store
+ORD1018,2025-02-22,South,Fashion,Cap,3.0,12.0,Online
+ORD1019,2025-02-25,East,Electronics,Monitor,1.0,185.0,Store
+ORD1020,2025-02-28,West,Home,Curtains,2.0,27.0,Online
+ORD1021,2025-03-03,North,Electronics,USB-C Hub,2.0,48.0,Online
+ORD1022,2025-03-06,South,Fashion,Sneakers,2.0,,Store
+ORD1023,2025-03-09,East,Home,Storage Box,4.0,18.0,Online
+ORD1024,2025-03-12,West,Electronics,Keyboard,2.0,55.0,Online
+ORD1025,2025-03-15,North,Fashion,Hoodie,1.0,42.0,Store
+ORD1026,2025-03-18,South,Home,Desk Lamp,2.0,32.5,Online
+ORD1027,2025-03-21,East,Electronics,Bluetooth Speaker,1.0,39.0,Store
+ORD1028,2025-03-24,West,Fashion,Jeans,1.0,38.0,Online
+ORD1029,2025-03-27,North,Home,Water Bottle,3.0,12.0,Online
+ORD1030,2025-03-30,South,Electronics,Wireless Mouse,2.0,25.0,Store
+ORD1031,2025-04-02,East,Fashion, cotton t-shirt ,4.0,15.0,Online
+ORD1032,2025-04-05,West,Home,Coffee Mug,3.0,8.0,Store
+ORD1033,2025-04-08,North,Electronics,Monitor,1.0,185.0,Online
+ORD1034,2025-04-11,South,Fashion,Jacket,2.0,89.0,Online
+ORD1035,2025-04-14,East,Home,Bed Sheet,2.0,45.0,Store
+ORD1036,2025-04-17,West,Electronics,Power Bank,3.0,29.0,Online
+ORD1037,2025-04-20,North,Fashion,Sneakers,1.0,65.0,Store
+ORD1038,2025-04-23,South,Home,Pillow,3.0,22.0,Online
+ORD1039,2025-04-26,East,Electronics,Webcam,2.0,72.0,Online
+ORD1040,2025-04-29,West,fashion ,Cap,2.0,12.0,Store
+ORD1041,2025-05-02,North,Electronics,Keyboard,1.0,55.0,Online
+ORD1042,2025-05-05,South,Home,Curtains,3.0,27.0,Store
+ORD1043,2025-05-08,East,Fashion,Jeans,2.0,38.0,Online
+ORD1044,2025-05-11,West,Electronics,Bluetooth Speaker,2.0,39.0,Store
+ORD1045,not-a-date,North,Home,Storage Box,2.0,18.0,Online
+ORD1046,2025-05-17,South,Fashion,Hoodie,2.0,42.0,Online
+ORD1047,2025-05-20,East,Electronics,Wireless Mouse,3.0,25.0,Store
+ORD1048,2025-05-23,West,Home,Desk Lamp,1.0,32.5,Online
+ORD1049,2025-05-26,North,Fashion,Jacket,1.0,89.0,Store
+ORD1050,2025-05-29,South,Electronics,USB-C Hub,-2.0,48.0,Online
+ORD1051,2025-06-01,East,Home,Water Bottle,5.0,12.0,Online
+ORD1052,2025-06-04,West,Fashion,Sneakers,1.0,65.0,Store
+ORD1053,2025-06-07,North,Electronics,Monitor,1.0,-185.0,Online
+ORD1054,2025-06-10,South,Home,Coffee Mug,6.0,8.0,Store
+ORD1055,2025-06-13,East,Fashion,Cotton T-Shirt,2.0,15.0,Online
+ORD1056,2025-06-16, west ,Electronics,Power Bank,2.0,29.0,Online
+ORD1057,2025-06-19,North,Home,Bed Sheet,1.0,45.0,Store
+ORD1058,2025-06-22,South,Fashion,Jeans,0.0,38.0,Online
+ORD1059,2025-06-25,East,Electronics,Webcam,1.0,72.0,Store
+ORD1060,2025-06-28,West,Home,Pillow,4.0,22.0,Online
+ORD1005,2025-01-14,North,Home,Water Bottle,4.0,12.0,Store
