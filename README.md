@@ -1,6 +1,6 @@
 # DevOps & Data Foundations Portfolio
 
-Hands-on training exercises covering Linux, AWS, containers, monitoring, CI/CD, automation, deployment strategies, and data analysis. This repository brings together **13 training days and 51 task folders**, with task notes and supporting evidence such as screenshots, notebooks, datasets, PDFs, documents, and a workbook.
+Hands-on training exercises covering Linux, AWS, containers, monitoring, CI/CD, automation, deployment strategies, and data analysis. This repository brings together **14 training days and 53 task folders**, with task notes and supporting evidence such as screenshots, notebooks, datasets, PDFs, documents, and a workbook.
 
 ## Explore the portfolio
 
@@ -8,7 +8,7 @@ Hands-on training exercises covering Linux, AWS, containers, monitoring, CI/CD, 
 | --- | --- | --- |
 | [Days 1–4](#daily-work) | Linux, AWS, and Docker | Filesystem, permissions, processes, EC2, IAM, S3, DNS, containers, and Dockerfiles |
 | [Days 5–9](#daily-work) | Monitoring and delivery | CloudTrail, CloudWatch, Prometheus, Grafana, Docker storage and networking, Jenkins, GitHub Actions, Ansible, and Blue-Green deployment |
-| [Days 10–13](#daily-work) | Data foundations | NumPy, pandas, data cleaning and visualization, SQL, relational dataset analysis, and e-commerce analytics |
+| [Days 10–14](#daily-work) | Data foundations | NumPy, pandas, data cleaning and visualization, SQL, relational dataset analysis, e-commerce analytics, and dashboard-style reporting |
 
 ## Daily work
 
@@ -27,6 +27,7 @@ Hands-on training exercises covering Linux, AWS, containers, monitoring, CI/CD, 
 | [Day 11 – Data Foundations](<Data Foundations/Day 11/README.md>) | Linux, sales analysis, and pandas data cleaning and visualization | 3 |
 | [Day 12 – Data Foundations](<Data Foundations/Day 12/README.md>) | Linux and SQL analysis of space-mission datasets | 3 |
 | [Day 13 – Data Foundations](<Data Foundations/Day 13/README.md>) | Linux and e-commerce data analysis with NumPy, pandas, and Matplotlib | 2 |
+| [Day 14 – Data Foundations](<Data Foundations/Day 14/README.md>) | Linux, SQL, and Python data visualization for structured analysis | 2 |
 
 ## Skills practiced
 
