@@ -1,6 +1,6 @@
 # DevOps & Data Foundations Portfolio
 
-Hands-on training exercises covering Linux, AWS, containers, monitoring, CI/CD, automation, deployment strategies, and data analysis. This repository brings together **14 training days and 53 task folders**, with task notes and supporting evidence such as screenshots, notebooks, datasets, PDFs, documents, and a workbook.
+Hands-on training exercises covering Linux, AWS, containers, monitoring, CI/CD, automation, deployment strategies, data analysis, and data warehousing. This repository brings together **15 training days and 56 task folders**, with task notes and supporting evidence such as screenshots, notebooks, datasets, PDFs, and documents.
 
 ## Explore the portfolio
 
@@ -8,7 +8,8 @@ Hands-on training exercises covering Linux, AWS, containers, monitoring, CI/CD, 
 | --- | --- | --- |
 | [Days 1–4](#daily-work) | Linux, AWS, and Docker | Filesystem, permissions, processes, EC2, IAM, S3, DNS, containers, and Dockerfiles |
 | [Days 5–9](#daily-work) | Monitoring and delivery | CloudTrail, CloudWatch, Prometheus, Grafana, Docker storage and networking, Jenkins, GitHub Actions, Ansible, and Blue-Green deployment |
-| [Days 10–14](#daily-work) | Data foundations | NumPy, pandas, data cleaning and visualization, SQL, relational dataset analysis, e-commerce analytics, and dashboard-style reporting |
+| [Days 10–13](#daily-work) | Data foundations | NumPy, pandas, data cleaning and visualization, SQL, relational dataset analysis, and e-commerce analytics |
+| [Days 14–15](#daily-work) | Data warehouse and cloud networking | Snowflake databases, warehouses, staged CSV loading, SQL verification, and AWS VPC networking |
 
 ## Daily work
 
@@ -27,7 +28,8 @@ Hands-on training exercises covering Linux, AWS, containers, monitoring, CI/CD, 
 | [Day 11 – Data Foundations](<Data Foundations/Day 11/README.md>) | Linux, sales analysis, and pandas data cleaning and visualization | 3 |
 | [Day 12 – Data Foundations](<Data Foundations/Day 12/README.md>) | Linux and SQL analysis of space-mission datasets | 3 |
 | [Day 13 – Data Foundations](<Data Foundations/Day 13/README.md>) | Linux and e-commerce data analysis with NumPy, pandas, and Matplotlib | 2 |
-| [Day 14 – Data Foundations](<Data Foundations/Day 14/README.md>) | Linux, SQL, and Python data visualization for structured analysis | 2 |
+| [Day 14 – Data Warehouse](<Data Warehouse/Day 14/README.md>) | Linux and Snowflake employee-data loading | 2 |
+| [Day 15 – Data Warehouse](<Data Warehouse/Day 15/README.md>) | Linux, Snowflake student-data loading, and AWS VPC implementation | 3 |
 
 ## Skills practiced
 
@@ -38,6 +40,7 @@ Hands-on training exercises covering Linux, AWS, containers, monitoring, CI/CD, 
 - **CI/CD and automation:** Jenkins jobs and pipelines, GitHub webhooks and Actions, and Ansible ad-hoc commands and playbooks.
 - **Deployment:** Nginx hosting and Blue-Green release concepts.
 - **Data foundations:** Python data libraries, NumPy, pandas, data cleaning and visualization, e-commerce analytics, and SQL filtering, joins, and aggregation.
+- **Data warehouse and cloud networking:** Snowflake database, schema, and warehouse management; staged CSV loading; and AWS VPC subnets, gateways, route tables, security groups, and EC2 access.
 
 ## How to use this repository
 
