@@ -1,0 +1,14 @@
+ProductID,ProductName,Category,UnitCost,ListPrice
+P001,Wireless Mouse,Electronics,450,799
+P002,Mechanical Keyboard,Electronics,1800,2999
+P003,USB-C Hub, electronics ,900,1499
+P004,Office Chair,Furniture,4200,6999
+P005,Study Desk,Furniture,5500,8999
+P006,Water Bottle,,180,399
+P007,Backpack,Accessories,700,1299
+P008,Notebook Pack,Stationery,,199
+P009,Gel Pen Set,Stationery,60,149
+P010,LED Desk Lamp,Electronics,650,1199.00
+P011,Bluetooth speaker,Electronics,1100,1999
+P012,Monitor Stand,Furniture,800,1499
+P001,Wireless Mouse,Electronics,450,799
