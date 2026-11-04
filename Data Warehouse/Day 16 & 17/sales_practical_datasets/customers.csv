@@ -1,0 +1,22 @@
+CustomerID,CustomerName,Email,City,Country,JoinDate
+C001,Aarav Sharma,aarav@example.com,Mumbai,India,2023-01-12
+C002,Diya Reddy,diya@example.com,Hyderabad,India,2023-02-05
+C003,Kabir Nair,,Chennai,India,2023-02-18
+C004,Ananya Iyer,ananya@example.com,Bengaluru,India,2023-03-09
+C005,Ishaan Gupta,ishaan@example.com,  Delhi ,India,2023-03-21
+C006,Meera Patel,meera@example.com,Pune,India,2023-04-02
+C007,Arjun Rao,arjun@example.com,Tirupati,India,2023-04-15
+C008,saanvi kumar,saanvi@example.com,Kochi,India,2023-05-01
+C009,Vivaan Das,vivaan@example.com,KOLKATA,India,2023-05-19
+C010,Aadhya Singh,aadhya@example.com,Jaipur,India,2023-06-03
+C011,Reyansh Verma,reyansh@example.com,Lucknow,India,2023-06-17
+C012,Myra Joshi,myra@example.com,Ahmedabad,,2023-07-04
+C013,Advik Menon,advik@example.com,Coimbatore,India,2023-07-22
+C014,Anvi Shah,anvi@example.com,Surat,India,2023-08-11
+C015,Krish Malhotra, krish@example.com ,Chandigarh,India,2023-08-29
+C016,Ira Choudhary,ira@example.com,Indore,India,2023-09-13
+C017,Rudra Bose,rudra@example.com,Bhopal,India,2023-10-06
+C018,Tara Kulkarni,tara@example.com,Nagpur,India,2023-10-24
+C019,Atharv Pillai,atharv@example.com,Visakhapatnam,India,2023-11-08
+C020,Nisha Fernandes,nisha@example.com,Goa,India,2023-11-26
+C001,Aarav Sharma,aarav@example.com,Mumbai,India,2023-01-12
