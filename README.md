@@ -1,6 +1,6 @@
 # DevOps & Data Foundations Portfolio
 
-Hands-on training exercises covering Linux, AWS, containers, monitoring, CI/CD, automation, deployment strategies, data analysis, and data warehousing. This repository brings together **17 training days and 59 task folders**, with task notes and supporting evidence such as screenshots, notebooks, datasets, PDFs, and documents.
+Hands-on training exercises covering Linux, AWS, containers, monitoring, CI/CD, automation, deployment strategies, data analysis, and data warehousing. This repository brings together **18 training days and 61 task folders**, with task notes and supporting evidence such as screenshots, notebooks, datasets, PDFs, and documents.
 
 ## Explore the portfolio
 
@@ -9,8 +9,7 @@ Hands-on training exercises covering Linux, AWS, containers, monitoring, CI/CD, 
 | [Days 1–4](#daily-work) | Linux, AWS, and Docker | Filesystem, permissions, processes, EC2, IAM, S3, DNS, containers, and Dockerfiles |
 | [Days 5–9](#daily-work) | Monitoring and delivery | CloudTrail, CloudWatch, Prometheus, Grafana, Docker storage and networking, Jenkins, GitHub Actions, Ansible, and Blue-Green deployment |
 | [Days 10–13](#daily-work) | Data foundations | NumPy, pandas, data cleaning and visualization, SQL, relational dataset analysis, and e-commerce analytics |
-| [Days 14–15](#daily-work) | Data warehouse and cloud networking | Snowflake databases, warehouses, staged CSV loading, SQL verification, and AWS VPC networking |
-| [Days 16–17](#daily-work) | Data warehouse and business intelligence | Snowflake multi-dataset ingestion, data cleaning, analytical SQL, query optimization, and Power BI modeling and visualization |
+| [Days 14–18](#daily-work) | Data warehouse and business intelligence | Snowflake databases, staged data loading, AWS VPC networking, query optimization, and Power BI reporting |
 
 ## Daily work
 
@@ -32,6 +31,7 @@ Hands-on training exercises covering Linux, AWS, containers, monitoring, CI/CD, 
 | [Day 14 – Data Warehouse](<Data Warehouse/Day 14/README.md>) | Linux and Snowflake employee-data loading | 2 |
 | [Day 15 – Data Warehouse](<Data Warehouse/Day 15/README.md>) | Linux, Snowflake student-data loading, and AWS VPC implementation | 3 |
 | [Days 16 & 17 – Data Warehouse](<Data Warehouse/Day 16 & 17/README.md>) | Linux, Snowflake sales-data engineering and query optimization, and Power BI modeling and visualization | 3 |
+| [Day 18 – Data Warehouse](<Data Warehouse/Day 18/README.md>) | Linux, Snowflake-to-Power BI integration, and sales dashboard visualization | 2 |
 
 ## Skills practiced
 
