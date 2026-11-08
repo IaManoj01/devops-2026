@@ -1,0 +1,251 @@
+id,customer_name,product_name,category,city,order_date,quantity,unit_price,revenue,gross_profit
+1,Rohan Mehta,High-End Server,Electronics,Pune,2022-10-02,2,1200000.0,2400000.0,898774.04
+2,Aditya Singh,Coffee Machine,Home & Kitchen,Pune,2022-10-04,22,40000.0,880000.0,315650.62
+3,Ananya Desai,High-End Server,Electronics,Mumbai,2022-10-05,1,1200000.0,1200000.0,447919.31
+4,Kavya Nair,Wireless Mouse,Electronics,Delhi,2022-10-07,127,2000.0,254000.0,94499.19
+5,Kavya Nair,Ergonomic Chair,Home Office,Delhi,2022-10-08,37,20000.0,740000.0,284178.54
+6,Aditya Singh,Network Switch,Electronics,Mumbai,2022-10-10,7,65000.0,455000.0,176536.69
+7,Sai Reddy,Laptop Stand,Home Office,Bengaluru,2022-10-11,31,3000.0,93000.0,39336.51
+8,Isha Rao,Bluetooth Speaker,Electronics,Mumbai,2022-10-13,95,5000.0,475000.0,205646.72
+9,Kavya Nair,Laptop Stand,Home Office,Delhi,2022-10-14,37,3000.0,111000.0,39358.65
+10,Vihaan Kumar,Ergonomic Chair,Home Office,Delhi,2022-10-16,16,20000.0,320000.0,124164.04
+11,Diya Joshi,Refrigerator,Home & Kitchen,Delhi,2022-10-17,16,90000.0,1440000.0,555158.98
+12,Rohan Mehta,Ergonomic Chair,Home Office,Hyderabad,2022-10-19,50,20000.0,1000000.0,367113.86
+13,Kabir Verma,Workstation PC,Electronics,Chennai,2022-10-20,7,250000.0,1750000.0,659740.87
+14,Tara Menon,Microwave,Home & Kitchen,Pune,2022-10-22,30,15000.0,450000.0,195428.34
+15,Saanvi Iyer,Workstation PC,Electronics,Mumbai,2022-10-23,6,250000.0,1500000.0,585174.72
+16,Vivaan Patel,Wireless Mouse,Electronics,Pune,2022-10-25,100,2000.0,200000.0,74252.53
+17,Diya Joshi,File Cabinet,Home Office,Delhi,2022-10-26,26,12000.0,312000.0,113556.47
+18,Kabir Verma,Refrigerator,Home & Kitchen,Pune,2022-10-28,23,90000.0,2070000.0,813185.8
+19,Kavya Nair,Desk Lamp,Home Office,Delhi,2022-10-29,55,3500.0,192500.0,77183.38
+20,Vivaan Patel,High-End Server,Electronics,Delhi,2022-10-31,3,1200000.0,3600000.0,1317593.52
+21,Rohan Mehta,Laptop Stand,Home Office,Mumbai,2022-11-01,118,3000.0,354000.0,137409.32
+22,Diya Joshi,Refrigerator,Home & Kitchen,Hyderabad,2022-11-03,5,90000.0,450000.0,188112.75
+23,Vivaan Patel,Refrigerator,Home & Kitchen,Pune,2022-11-04,15,90000.0,1350000.0,487559.54
+24,Ananya Desai,Bluetooth Speaker,Electronics,Mumbai,2022-11-06,87,5000.0,435000.0,194527.13
+25,Saanvi Iyer,Wireless Mouse,Electronics,Mumbai,2022-11-07,96,2000.0,192000.0,83360.05
+26,Isha Rao,Microwave,Home & Kitchen,Delhi,2022-11-09,33,15000.0,495000.0,210994.28
+27,Isha Rao,Coffee Machine,Home & Kitchen,Hyderabad,2022-11-10,15,40000.0,600000.0,239316.34
+28,Vivaan Patel,Desk Lamp,Home Office,Delhi,2022-11-12,34,3500.0,119000.0,44516.37
+29,Kavya Nair,High-End Server,Electronics,Pune,2022-11-13,2,1200000.0,2400000.0,1035845.58
+30,Saanvi Iyer,Microwave,Home & Kitchen,Delhi,2022-11-15,40,15000.0,600000.0,266810.92
+31,Aditya Singh,Laptop Stand,Home Office,Hyderabad,2022-11-16,128,3000.0,384000.0,171431.54
+32,Tara Menon,Microwave,Home & Kitchen,Pune,2022-11-18,29,15000.0,435000.0,169606.17
+33,Rohan Mehta,Refrigerator,Home & Kitchen,Chennai,2022-11-19,21,90000.0,1890000.0,746830.88
+34,Vihaan Kumar,High-End Server,Electronics,Bengaluru,2022-11-21,1,1200000.0,1200000.0,490597.05
+35,Vihaan Kumar,Microwave,Home & Kitchen,Mumbai,2022-11-22,14,15000.0,210000.0,88364.66
+36,Aarav Sharma,High-End Server,Electronics,Mumbai,2022-11-24,2,1200000.0,2400000.0,857005.76
+37,Vihaan Kumar,File Cabinet,Home Office,Delhi,2022-11-25,44,12000.0,528000.0,191786.07
+38,Tara Menon,Coffee Mug,Home & Kitchen,Delhi,2022-11-27,141,1000.0,141000.0,60735.71
+39,Vihaan Kumar,High-End Server,Electronics,Pune,2022-11-28,2,1200000.0,2400000.0,925031.42
+40,Ananya Desai,Ergonomic Chair,Home Office,Pune,2022-11-30,16,20000.0,320000.0,113939.61
+41,Kabir Verma,Ergonomic Chair,Home Office,Delhi,2022-12-01,22,20000.0,440000.0,162369.19
+42,Diya Joshi,Bluetooth Speaker,Electronics,Delhi,2022-12-03,91,5000.0,455000.0,180299.58
+43,Rhea Chawla,Bluetooth Speaker,Electronics,Hyderabad,2022-12-04,45,5000.0,225000.0,79888.24
+44,Isha Rao,High-End Server,Electronics,Delhi,2022-12-06,1,1200000.0,1200000.0,468769.69
+45,Diya Joshi,Bluetooth Speaker,Electronics,Mumbai,2022-12-07,62,5000.0,310000.0,120248.17
+46,Ananya Desai,File Cabinet,Home Office,Bengaluru,2022-12-09,37,12000.0,444000.0,186328.66
+47,Kabir Verma,Coffee Mug,Home & Kitchen,Delhi,2022-12-10,68,1000.0,68000.0,25817.61
+48,Aarav Sharma,Coffee Machine,Home & Kitchen,Pune,2022-12-12,15,40000.0,600000.0,213429.92
+49,Kavya Nair,Laptop Stand,Home Office,Hyderabad,2022-12-13,60,3000.0,180000.0,64023.83
+50,Isha Rao,Workstation PC,Electronics,Mumbai,2022-12-15,2,250000.0,500000.0,208760.63
+51,Vihaan Kumar,Ergonomic Chair,Home Office,Hyderabad,2022-12-16,25,20000.0,500000.0,203945.95
+52,Aarav Sharma,Coffee Machine,Home & Kitchen,Chennai,2022-12-18,23,40000.0,920000.0,374000.88
+53,Sai Reddy,Standing Desk,Home Office,Pune,2022-12-19,15,35000.0,525000.0,196281.01
+54,Ananya Desai,Network Switch,Electronics,Chennai,2022-12-21,15,65000.0,975000.0,431829.29
+55,Tara Menon,High-End Server,Electronics,Chennai,2022-12-22,3,1200000.0,3600000.0,1619443.6
+56,Vivaan Patel,Wireless Mouse,Electronics,Delhi,2022-12-24,149,2000.0,298000.0,112202.97
+57,Tara Menon,Ergonomic Chair,Home Office,Delhi,2022-12-25,33,20000.0,660000.0,249809.17
+58,Diya Joshi,Refrigerator,Home & Kitchen,Hyderabad,2022-12-27,25,90000.0,2250000.0,906511.66
+59,Rohan Mehta,Refrigerator,Home & Kitchen,Pune,2022-12-28,8,90000.0,720000.0,319602.96
+60,Aditya Singh,Ergonomic Chair,Home Office,Mumbai,2022-12-30,45,20000.0,900000.0,328990.31
+61,Arjun Gupta,Microwave,Home & Kitchen,Pune,2022-12-31,31,15000.0,465000.0,172217.28
+62,Rohan Mehta,Laptop Stand,Home Office,Chennai,2023-01-02,84,3000.0,252000.0,111014.48
+63,Rhea Chawla,High-End Server,Electronics,Pune,2023-01-03,2,1200000.0,2400000.0,1039043.54
+64,Aarav Sharma,Network Switch,Electronics,Delhi,2023-01-05,25,65000.0,1625000.0,727967.17
+65,Aditya Singh,Coffee Mug,Home & Kitchen,Hyderabad,2023-01-06,129,1000.0,129000.0,52385.7
+66,Vivaan Patel,Workstation PC,Electronics,Hyderabad,2023-01-08,1,250000.0,250000.0,108364.88
+67,Kavya Nair,Microwave,Home & Kitchen,Chennai,2023-01-09,18,15000.0,270000.0,95629.38
+68,Sai Reddy,Network Switch,Electronics,Delhi,2023-01-11,12,65000.0,780000.0,325020.81
+69,Sai Reddy,Coffee Mug,Home & Kitchen,Hyderabad,2023-01-12,59,1000.0,59000.0,26112.01
+70,Vihaan Kumar,Workstation PC,Electronics,Chennai,2023-01-14,1,250000.0,250000.0,91984.02
+71,Tara Menon,File Cabinet,Home Office,Pune,2023-01-15,25,12000.0,300000.0,113004.17
+72,Saanvi Iyer,Coffee Machine,Home & Kitchen,Chennai,2023-01-17,6,40000.0,240000.0,104606.24
+73,Vihaan Kumar,Bluetooth Speaker,Electronics,Bengaluru,2023-01-18,98,5000.0,490000.0,211706.28
+74,Rhea Chawla,Workstation PC,Electronics,Mumbai,2023-01-20,4,250000.0,1000000.0,389846.6
+75,Arjun Gupta,Network Switch,Electronics,Bengaluru,2023-01-21,25,65000.0,1625000.0,651528.42
+76,Rohan Mehta,Refrigerator,Home & Kitchen,Mumbai,2023-01-23,8,90000.0,720000.0,315146.77
+77,Arjun Gupta,Wireless Mouse,Electronics,Bengaluru,2023-01-24,29,2000.0,58000.0,20928.73
+78,Ananya Desai,Desk Lamp,Home Office,Chennai,2023-01-26,150,3500.0,525000.0,189821.4
+79,Tara Menon,Microwave,Home & Kitchen,Bengaluru,2023-01-27,12,15000.0,180000.0,75758.14
+80,Aarav Sharma,Microwave,Home & Kitchen,Bengaluru,2023-01-29,37,15000.0,555000.0,198133.55
+81,Rohan Mehta,Laptop Stand,Home Office,Bengaluru,2023-01-30,51,3000.0,153000.0,64562.24
+82,Arjun Gupta,Refrigerator,Home & Kitchen,Pune,2023-02-01,18,90000.0,1620000.0,619841.63
+83,Kabir Verma,Laptop Stand,Home Office,Delhi,2023-02-02,69,3000.0,207000.0,81153.24
+84,Ananya Desai,Microwave,Home & Kitchen,Hyderabad,2023-02-04,46,15000.0,690000.0,262265.54
+85,Isha Rao,Network Switch,Electronics,Bengaluru,2023-02-05,11,65000.0,715000.0,280987.0
+86,Kavya Nair,Refrigerator,Home & Kitchen,Chennai,2023-02-07,19,90000.0,1710000.0,674109.33
+87,Vihaan Kumar,Coffee Mug,Home & Kitchen,Pune,2023-02-08,63,1000.0,63000.0,26200.76
+88,Arjun Gupta,Refrigerator,Home & Kitchen,Mumbai,2023-02-10,12,90000.0,1080000.0,450661.93
+89,Vihaan Kumar,Workstation PC,Electronics,Mumbai,2023-02-11,1,250000.0,250000.0,93621.06
+90,Diya Joshi,Coffee Machine,Home & Kitchen,Chennai,2023-02-13,18,40000.0,720000.0,315801.86
+91,Kavya Nair,Bluetooth Speaker,Electronics,Chennai,2023-02-14,122,5000.0,610000.0,228383.05
+92,Rohan Mehta,Coffee Machine,Home & Kitchen,Mumbai,2023-02-16,18,40000.0,720000.0,267756.56
+93,Saanvi Iyer,Coffee Mug,Home & Kitchen,Mumbai,2023-02-17,83,1000.0,83000.0,36665.0
+94,Vivaan Patel,Standing Desk,Home Office,Chennai,2023-02-19,21,35000.0,735000.0,329860.1
+95,Kavya Nair,File Cabinet,Home Office,Hyderabad,2023-02-20,42,12000.0,504000.0,197907.73
+96,Tara Menon,Coffee Mug,Home & Kitchen,Delhi,2023-02-22,141,1000.0,141000.0,55695.98
+97,Saanvi Iyer,Network Switch,Electronics,Hyderabad,2023-02-23,20,65000.0,1300000.0,536477.3
+98,Arjun Gupta,Ergonomic Chair,Home Office,Pune,2023-02-25,28,20000.0,560000.0,209131.64
+99,Sai Reddy,Laptop Stand,Home Office,Mumbai,2023-02-26,55,3000.0,165000.0,60238.71
+100,Ananya Desai,Microwave,Home & Kitchen,Pune,2023-02-28,23,15000.0,345000.0,122965.9
+101,Ananya Desai,Laptop Stand,Home Office,Chennai,2023-03-01,126,3000.0,378000.0,134653.64
+102,Rhea Chawla,File Cabinet,Home Office,Hyderabad,2023-03-03,11,12000.0,132000.0,57508.86
+103,Saanvi Iyer,Coffee Mug,Home & Kitchen,Chennai,2023-03-04,21,1000.0,21000.0,9329.76
+104,Arjun Gupta,File Cabinet,Home Office,Hyderabad,2023-03-06,44,12000.0,528000.0,227033.04
+105,Tara Menon,Bluetooth Speaker,Electronics,Delhi,2023-03-07,89,5000.0,445000.0,175144.7
+106,Aarav Sharma,Desk Lamp,Home Office,Pune,2023-03-09,123,3500.0,430500.0,181851.01
+107,Rhea Chawla,Standing Desk,Home Office,Hyderabad,2023-03-10,22,35000.0,770000.0,271576.42
+108,Ananya Desai,Coffee Machine,Home & Kitchen,Mumbai,2023-03-12,25,40000.0,1000000.0,392861.28
+109,Rhea Chawla,Standing Desk,Home Office,Mumbai,2023-03-13,13,35000.0,455000.0,176499.23
+110,Vihaan Kumar,Desk Lamp,Home Office,Bengaluru,2023-03-15,117,3500.0,409500.0,154719.61
+111,Rhea Chawla,Desk Lamp,Home Office,Mumbai,2023-03-16,140,3500.0,490000.0,172449.78
+112,Isha Rao,Network Switch,Electronics,Delhi,2023-03-18,25,65000.0,1625000.0,579900.49
+113,Rohan Mehta,High-End Server,Electronics,Delhi,2023-03-19,1,1200000.0,1200000.0,520707.46
+114,Kavya Nair,Workstation PC,Electronics,Delhi,2023-03-21,8,250000.0,2000000.0,833891.77
+115,Kavya Nair,Bluetooth Speaker,Electronics,Pune,2023-03-22,85,5000.0,425000.0,181343.17
+116,Aditya Singh,Coffee Machine,Home & Kitchen,Delhi,2023-03-24,14,40000.0,560000.0,202053.53
+117,Aarav Sharma,Laptop Stand,Home Office,Pune,2023-03-25,116,3000.0,348000.0,135603.57
+118,Kabir Verma,High-End Server,Electronics,Hyderabad,2023-03-27,3,1200000.0,3600000.0,1559005.79
+119,Vihaan Kumar,Network Switch,Electronics,Pune,2023-03-28,24,65000.0,1560000.0,671662.36
+120,Saanvi Iyer,Coffee Machine,Home & Kitchen,Bengaluru,2023-03-30,22,40000.0,880000.0,345697.27
+121,Sai Reddy,Wireless Mouse,Electronics,Pune,2023-03-31,107,2000.0,214000.0,75170.76
+122,Ananya Desai,Ergonomic Chair,Home Office,Chennai,2023-04-02,33,20000.0,660000.0,272948.62
+123,Rhea Chawla,Standing Desk,Home Office,Chennai,2023-04-03,10,35000.0,350000.0,148182.84
+124,Rohan Mehta,Laptop Stand,Home Office,Hyderabad,2023-04-05,143,3000.0,429000.0,170093.08
+125,Rhea Chawla,Refrigerator,Home & Kitchen,Bengaluru,2023-04-06,12,90000.0,1080000.0,467718.95
+126,Vivaan Patel,File Cabinet,Home Office,Delhi,2023-04-08,39,12000.0,468000.0,190468.96
+127,Rohan Mehta,Desk Lamp,Home Office,Mumbai,2023-04-09,146,3500.0,511000.0,222333.69
+128,Aditya Singh,Standing Desk,Home Office,Bengaluru,2023-04-11,13,35000.0,455000.0,174735.42
+129,Tara Menon,Refrigerator,Home & Kitchen,Hyderabad,2023-04-12,5,90000.0,450000.0,180748.23
+130,Vihaan Kumar,Workstation PC,Electronics,Pune,2023-04-14,7,250000.0,1750000.0,698001.12
+131,Saanvi Iyer,Bluetooth Speaker,Electronics,Pune,2023-04-15,145,5000.0,725000.0,286242.65
+132,Aarav Sharma,Network Switch,Electronics,Delhi,2023-04-17,17,65000.0,1105000.0,463192.48
+133,Arjun Gupta,Refrigerator,Home & Kitchen,Chennai,2023-04-18,22,90000.0,1980000.0,798122.54
+134,Ananya Desai,Refrigerator,Home & Kitchen,Bengaluru,2023-04-20,19,90000.0,1710000.0,644826.71
+135,Arjun Gupta,High-End Server,Electronics,Pune,2023-04-21,1,1200000.0,1200000.0,457865.75
+136,Kabir Verma,Microwave,Home & Kitchen,Delhi,2023-04-23,23,15000.0,345000.0,146231.86
+137,Arjun Gupta,Refrigerator,Home & Kitchen,Mumbai,2023-04-24,11,90000.0,990000.0,375828.4
+138,Sai Reddy,Network Switch,Electronics,Mumbai,2023-04-26,22,65000.0,1430000.0,518601.36
+139,Aarav Sharma,Wireless Mouse,Electronics,Bengaluru,2023-04-27,52,2000.0,104000.0,43033.84
+140,Saanvi Iyer,Ergonomic Chair,Home Office,Mumbai,2023-04-29,46,20000.0,920000.0,348159.22
+141,Diya Joshi,Desk Lamp,Home Office,Delhi,2023-04-30,33,3500.0,115500.0,43341.13
+142,Rhea Chawla,Ergonomic Chair,Home Office,Mumbai,2023-05-02,35,20000.0,700000.0,279422.26
+143,Kavya Nair,Coffee Machine,Home & Kitchen,Delhi,2023-05-03,9,40000.0,360000.0,155201.11
+144,Arjun Gupta,Workstation PC,Electronics,Mumbai,2023-05-05,7,250000.0,1750000.0,718605.59
+145,Saanvi Iyer,Microwave,Home & Kitchen,Hyderabad,2023-05-06,34,15000.0,510000.0,201476.24
+146,Diya Joshi,Laptop Stand,Home Office,Chennai,2023-05-08,98,3000.0,294000.0,119617.71
+147,Aarav Sharma,Coffee Machine,Home & Kitchen,Delhi,2023-05-09,25,40000.0,1000000.0,371102.52
+148,Rohan Mehta,Workstation PC,Electronics,Delhi,2023-05-11,3,250000.0,750000.0,303899.42
+149,Aditya Singh,Bluetooth Speaker,Electronics,Chennai,2023-05-12,140,5000.0,700000.0,265388.15
+150,Vihaan Kumar,Desk Lamp,Home Office,Pune,2023-05-14,136,3500.0,476000.0,169988.16
+151,Vihaan Kumar,Laptop Stand,Home Office,Pune,2023-05-15,70,3000.0,210000.0,82427.92
+152,Isha Rao,Workstation PC,Electronics,Bengaluru,2023-05-17,3,250000.0,750000.0,267855.74
+153,Aditya Singh,Laptop Stand,Home Office,Pune,2023-05-18,93,3000.0,279000.0,109902.38
+154,Diya Joshi,Refrigerator,Home & Kitchen,Pune,2023-05-20,17,90000.0,1530000.0,679729.46
+155,Isha Rao,Coffee Mug,Home & Kitchen,Chennai,2023-05-21,40,1000.0,40000.0,16392.15
+156,Tara Menon,Desk Lamp,Home Office,Hyderabad,2023-05-23,84,3500.0,294000.0,103660.43
+157,Vihaan Kumar,Coffee Machine,Home & Kitchen,Pune,2023-05-24,13,40000.0,520000.0,211964.84
+158,Saanvi Iyer,Bluetooth Speaker,Electronics,Hyderabad,2023-05-26,133,5000.0,665000.0,293668.84
+159,Aditya Singh,Coffee Mug,Home & Kitchen,Pune,2023-05-27,145,1000.0,145000.0,64801.3
+160,Diya Joshi,File Cabinet,Home Office,Bengaluru,2023-05-29,30,12000.0,360000.0,150124.81
+161,Rhea Chawla,Network Switch,Electronics,Chennai,2023-05-30,20,65000.0,1300000.0,492468.31
+162,Ananya Desai,Coffee Machine,Home & Kitchen,Chennai,2023-06-01,7,40000.0,280000.0,106806.48
+163,Sai Reddy,Bluetooth Speaker,Electronics,Hyderabad,2023-06-02,20,5000.0,100000.0,41576.6
+164,Isha Rao,File Cabinet,Home Office,Mumbai,2023-06-04,22,12000.0,264000.0,106086.8
+165,Kavya Nair,File Cabinet,Home Office,Mumbai,2023-06-05,23,12000.0,276000.0,103970.75
+166,Aditya Singh,File Cabinet,Home Office,Pune,2023-06-07,41,12000.0,492000.0,178174.16
+167,Rohan Mehta,Microwave,Home & Kitchen,Pune,2023-06-08,20,15000.0,300000.0,114322.5
+168,Aarav Sharma,Coffee Mug,Home & Kitchen,Mumbai,2023-06-10,77,1000.0,77000.0,34590.38
+169,Tara Menon,Bluetooth Speaker,Electronics,Mumbai,2023-06-11,59,5000.0,295000.0,117952.08
+170,Kabir Verma,Laptop Stand,Home Office,Pune,2023-06-13,89,3000.0,267000.0,104543.59
+171,Diya Joshi,Standing Desk,Home Office,Chennai,2023-06-14,22,35000.0,770000.0,280637.43
+172,Vihaan Kumar,Microwave,Home & Kitchen,Mumbai,2023-06-16,27,15000.0,405000.0,173043.34
+173,Rhea Chawla,Desk Lamp,Home Office,Hyderabad,2023-06-17,88,3500.0,308000.0,133072.92
+174,Arjun Gupta,Refrigerator,Home & Kitchen,Hyderabad,2023-06-19,23,90000.0,2070000.0,931272.78
+175,Diya Joshi,Bluetooth Speaker,Electronics,Hyderabad,2023-06-20,143,5000.0,715000.0,274926.36
+176,Isha Rao,Coffee Mug,Home & Kitchen,Chennai,2023-06-22,102,1000.0,102000.0,44569.94
+177,Kabir Verma,Wireless Mouse,Electronics,Chennai,2023-06-23,79,2000.0,158000.0,68825.01
+178,Ananya Desai,Network Switch,Electronics,Pune,2023-06-25,20,65000.0,1300000.0,546679.62
+179,Saanvi Iyer,File Cabinet,Home Office,Pune,2023-06-26,19,12000.0,228000.0,91093.49
+180,Aarav Sharma,Wireless Mouse,Electronics,Hyderabad,2023-06-28,104,2000.0,208000.0,90889.77
+181,Rhea Chawla,Ergonomic Chair,Home Office,Hyderabad,2023-06-29,39,20000.0,780000.0,274197.11
+182,Aditya Singh,Standing Desk,Home Office,Mumbai,2023-07-01,20,35000.0,700000.0,299706.77
+183,Arjun Gupta,Laptop Stand,Home Office,Pune,2023-07-02,121,3000.0,363000.0,150639.07
+184,Rhea Chawla,Laptop Stand,Home Office,Chennai,2023-07-04,101,3000.0,303000.0,125042.02
+185,Tara Menon,Laptop Stand,Home Office,Mumbai,2023-07-05,37,3000.0,111000.0,41455.95
+186,Rohan Mehta,Standing Desk,Home Office,Pune,2023-07-07,7,35000.0,245000.0,96382.3
+187,Vivaan Patel,Coffee Machine,Home & Kitchen,Chennai,2023-07-08,10,40000.0,400000.0,167760.05
+188,Tara Menon,High-End Server,Electronics,Bengaluru,2023-07-10,1,1200000.0,1200000.0,455204.13
+189,Sai Reddy,Standing Desk,Home Office,Delhi,2023-07-11,21,35000.0,735000.0,287535.8
+190,Rohan Mehta,Workstation PC,Electronics,Delhi,2023-07-13,2,250000.0,500000.0,205474.59
+191,Ananya Desai,Microwave,Home & Kitchen,Chennai,2023-07-14,47,15000.0,705000.0,256839.8
+192,Diya Joshi,Refrigerator,Home & Kitchen,Chennai,2023-07-16,13,90000.0,1170000.0,487520.36
+193,Tara Menon,Desk Lamp,Home Office,Pune,2023-07-17,60,3500.0,210000.0,75051.1
+194,Sai Reddy,Refrigerator,Home & Kitchen,Pune,2023-07-19,18,90000.0,1620000.0,678830.79
+195,Diya Joshi,Standing Desk,Home Office,Chennai,2023-07-20,20,35000.0,700000.0,252465.73
+196,Ananya Desai,Refrigerator,Home & Kitchen,Hyderabad,2023-07-22,14,90000.0,1260000.0,566079.2
+197,Arjun Gupta,Bluetooth Speaker,Electronics,Bengaluru,2023-07-23,22,5000.0,110000.0,44725.22
+198,Rohan Mehta,Coffee Machine,Home & Kitchen,Hyderabad,2023-07-25,20,40000.0,800000.0,346627.11
+199,Tara Menon,Standing Desk,Home Office,Hyderabad,2023-07-26,16,35000.0,560000.0,208264.25
+200,Vihaan Kumar,Refrigerator,Home & Kitchen,Pune,2023-07-28,9,90000.0,810000.0,334388.1
+201,Tara Menon,Coffee Machine,Home & Kitchen,Bengaluru,2023-07-29,19,40000.0,760000.0,268535.7
+202,Sai Reddy,Microwave,Home & Kitchen,Mumbai,2023-07-31,28,15000.0,420000.0,160722.2
+203,Ananya Desai,Workstation PC,Electronics,Delhi,2023-08-01,6,250000.0,1500000.0,604627.86
+204,Tara Menon,Standing Desk,Home Office,Bengaluru,2023-08-03,20,35000.0,700000.0,312716.89
+205,Arjun Gupta,Refrigerator,Home & Kitchen,Mumbai,2023-08-04,19,90000.0,1710000.0,763154.75
+206,Aditya Singh,Bluetooth Speaker,Electronics,Hyderabad,2023-08-06,113,5000.0,565000.0,202852.11
+207,Ananya Desai,Network Switch,Electronics,Hyderabad,2023-08-07,8,65000.0,520000.0,205648.87
+208,Rohan Mehta,Refrigerator,Home & Kitchen,Hyderabad,2023-08-09,17,90000.0,1530000.0,661329.85
+209,Sai Reddy,Workstation PC,Electronics,Chennai,2023-08-10,1,250000.0,250000.0,102988.67
+210,Isha Rao,Laptop Stand,Home Office,Delhi,2023-08-12,36,3000.0,108000.0,44662.36
+211,Diya Joshi,Refrigerator,Home & Kitchen,Pune,2023-08-13,18,90000.0,1620000.0,585901.5
+212,Aarav Sharma,Network Switch,Electronics,Chennai,2023-08-15,8,65000.0,520000.0,187053.98
+213,Tara Menon,Microwave,Home & Kitchen,Chennai,2023-08-16,39,15000.0,585000.0,226454.17
+214,Kabir Verma,Coffee Mug,Home & Kitchen,Hyderabad,2023-08-18,59,1000.0,59000.0,25873.94
+215,Rohan Mehta,Bluetooth Speaker,Electronics,Hyderabad,2023-08-19,124,5000.0,620000.0,275221.29
+216,Arjun Gupta,Network Switch,Electronics,Delhi,2023-08-21,19,65000.0,1235000.0,487169.94
+217,Vihaan Kumar,Ergonomic Chair,Home Office,Pune,2023-08-22,33,20000.0,660000.0,266934.75
+218,Rohan Mehta,Ergonomic Chair,Home Office,Chennai,2023-08-24,27,20000.0,540000.0,199249.66
+219,Vivaan Patel,Ergonomic Chair,Home Office,Pune,2023-08-25,23,20000.0,460000.0,190518.41
+220,Kavya Nair,High-End Server,Electronics,Bengaluru,2023-08-27,1,1200000.0,1200000.0,538658.51
+221,Saanvi Iyer,Microwave,Home & Kitchen,Mumbai,2023-08-28,45,15000.0,675000.0,250233.12
+222,Vihaan Kumar,Network Switch,Electronics,Delhi,2023-08-30,24,65000.0,1560000.0,546442.35
+223,Rhea Chawla,Workstation PC,Electronics,Hyderabad,2023-08-31,5,250000.0,1250000.0,537314.23
+224,Vivaan Patel,Coffee Machine,Home & Kitchen,Delhi,2023-09-02,5,40000.0,200000.0,77164.85
+225,Saanvi Iyer,Wireless Mouse,Electronics,Bengaluru,2023-09-03,24,2000.0,48000.0,17636.38
+226,Aarav Sharma,Bluetooth Speaker,Electronics,Hyderabad,2023-09-05,49,5000.0,245000.0,104018.8
+227,Diya Joshi,Desk Lamp,Home Office,Hyderabad,2023-09-06,47,3500.0,164500.0,65010.49
+228,Vihaan Kumar,Coffee Machine,Home & Kitchen,Pune,2023-09-08,21,40000.0,840000.0,319336.95
+229,Rohan Mehta,High-End Server,Electronics,Chennai,2023-09-09,2,1200000.0,2400000.0,942305.67
+230,Vivaan Patel,File Cabinet,Home Office,Mumbai,2023-09-11,15,12000.0,180000.0,68798.01
+231,Aditya Singh,Workstation PC,Electronics,Bengaluru,2023-09-12,6,250000.0,1500000.0,582135.66
+232,Kavya Nair,Refrigerator,Home & Kitchen,Chennai,2023-09-14,21,90000.0,1890000.0,775925.66
+233,Vivaan Patel,Coffee Machine,Home & Kitchen,Pune,2023-09-15,25,40000.0,1000000.0,437770.62
+234,Isha Rao,Microwave,Home & Kitchen,Chennai,2023-09-17,38,15000.0,570000.0,250121.19
+235,Ananya Desai,File Cabinet,Home Office,Chennai,2023-09-18,36,12000.0,432000.0,182719.26
+236,Sai Reddy,Desk Lamp,Home Office,Pune,2023-09-20,85,3500.0,297500.0,115260.46
+237,Aditya Singh,Coffee Mug,Home & Kitchen,Mumbai,2023-09-21,43,1000.0,43000.0,18626.62
+238,Vivaan Patel,Ergonomic Chair,Home Office,Pune,2023-09-23,33,20000.0,660000.0,284576.77
+239,Isha Rao,Wireless Mouse,Electronics,Hyderabad,2023-09-24,104,2000.0,208000.0,86736.28
+240,Ananya Desai,File Cabinet,Home Office,Pune,2023-09-26,13,12000.0,156000.0,69707.02
+241,Kavya Nair,Desk Lamp,Home Office,Mumbai,2023-09-27,149,3500.0,521500.0,193619.33
+242,Rohan Mehta,Standing Desk,Home Office,Mumbai,2023-09-29,16,35000.0,560000.0,243340.91
+243,Sai Reddy,Network Switch,Electronics,Hyderabad,2023-09-30,12,65000.0,780000.0,335963.27
+244,Rhea Chawla,Coffee Machine,Home & Kitchen,Hyderabad,2023-10-02,13,40000.0,520000.0,183505.57
+245,Arjun Gupta,Refrigerator,Home & Kitchen,Bengaluru,2023-10-03,16,90000.0,1440000.0,504879.23
+246,Rhea Chawla,Wireless Mouse,Electronics,Pune,2023-10-05,122,2000.0,244000.0,87097.88
+247,Kabir Verma,Coffee Machine,Home & Kitchen,Mumbai,2023-10-06,21,40000.0,840000.0,312071.16
+248,Ananya Desai,Desk Lamp,Home Office,Delhi,2023-10-08,114,3500.0,399000.0,152084.33
+249,Sai Reddy,Coffee Machine,Home & Kitchen,Mumbai,2023-10-09,9,40000.0,360000.0,131666.76
+250,Kavya Nair,High-End Server,Electronics,Bengaluru,2023-10-11,2,1200000.0,2400000.0,998865.29
